@@ -1,1 +1,1 @@
-# jsk_lecture
+# lecture
